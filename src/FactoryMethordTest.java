@@ -37,7 +37,7 @@ public class FactoryMethordTest {
 
     public static void main(String[] args) {
         Food newFood =  FoodFactory.getFoodByType(FoodFactory.TYPE_APPLE);
-        newFood.introduce();
+        newFood.introduce();aa
         Food newFood2 =  FoodFactory.getDefaultFood();
         newFood2.introduce();
     }
