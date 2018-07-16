@@ -4,6 +4,8 @@ import food.Food;
 /**
  * @author LightDance
  */
+
+
 public class FactoryMethordTest {
     //静态工厂方法与构造器相比，优势在于：
     // 1.它有名称，可以通过不同名称的静态工厂方法区别不同类型实例，
